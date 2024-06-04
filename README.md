@@ -1,6 +1,6 @@
 # Aplikacja pogoda
 
-Aplikacja wykorzustująca React do wyświetlania pogody w miastach w polsce.
+Aplikacja wykorzystująca React do wyświetlania pogody w miastach w polsce.
 
 ![1717542493910](image/README/1717542493910.png)
 
